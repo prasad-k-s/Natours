@@ -1,4 +1,6 @@
-# Sass Learning Project
+# Sass Learning Project 
+
+Live link - [natours-prasad.netlify.app](https://natours-prasad.netlify.app)
 
 This project was developed as a learning exercise to explore SASS, CSS, and CSS animations. It is a simple yet dynamic website coded using the Sass preprocessor to practice advanced CSS techniques.
 
@@ -76,5 +78,5 @@ The website is fully responsive, ensuring a seamless user experience across all 
 
 This project was built as a personal learning resource, so no external libraries or frameworks were used other than the required NPM packages.
 
-Feel free to check out the project live and see how all these CSS techniques come together in action!
+Feel free to check out the live website here: [natours-prasad.netlify.app](https://natours-prasad.netlify.app)
 
